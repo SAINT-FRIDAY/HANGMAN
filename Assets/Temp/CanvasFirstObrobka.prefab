@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1583560283186500}
+  m_IsPrefabParent: 1
+--- !u!1 &1583560283186500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4555034809579744}
+  - component: {fileID: 114566593883058884}
+  m_Layer: 0
+  m_Name: CanvasFirstObrobka
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4555034809579744
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1583560283186500}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114566593883058884
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1583560283186500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff88b710cb299c347a90a166f6981a76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Blank: {fileID: 1993356557729798, guid: b8b40d8ddc91c8b49a4aeee89eaa7e6f, type: 2}
+  Canvas: {fileID: 0}
+  fields: []
+  myTextures:
+  - {fileID: 21300000, guid: ee8db3653b842034f962bb6f95a174a8, type: 3}
+  - {fileID: 21300000, guid: fed214fc4e35bab4c84898c41c2fd13d, type: 3}
+  - {fileID: 21300000, guid: 9686c7767352f84418a554ba92e6fcbc, type: 3}
+  - {fileID: 21300000, guid: 19f32dbcf051dfb499597fe3fbadbfe6, type: 3}
+  - {fileID: 21300000, guid: 97241b4a9f687e541ac65ffea5ac062e, type: 3}
+  - {fileID: 21300000, guid: 2283b31d638854f4ca23b98951e20dd4, type: 3}
+  - {fileID: 21300000, guid: 99bf922a7a87e8d42bacedf5fb3b1f96, type: 3}
+  - {fileID: 21300000, guid: ce64907bf7586a747ba9fc716cdc26af, type: 3}
+  - {fileID: 21300000, guid: 17804f698c36bbb4097ea349fa301022, type: 3}
+  - {fileID: 21300000, guid: 063a031e22cdac044a354f20111bf927, type: 3}
+  - {fileID: 21300000, guid: 94490acbb21c8dd4ebdb3c29f717c55f, type: 3}
+  - {fileID: 21300000, guid: e0ab0f4a9ba35b24e87bd39fbcf08b60, type: 3}
+  - {fileID: 21300000, guid: 2fd45420da887da4294c8106f3887dc7, type: 3}
+  - {fileID: 21300000, guid: 5ed1a1ea01a8c1c43b684eee3501df17, type: 3}
+  - {fileID: 21300000, guid: c85c799607c352b4eb31e21aee9a825d, type: 3}
+  - {fileID: 21300000, guid: d61a7c8c0d6c5554cb107f881accbf72, type: 3}
+  - {fileID: 21300000, guid: 17d08c3dc918b8e44a642886880c62f0, type: 3}
+  - {fileID: 21300000, guid: d2860476e14028a48b8fb5c550666102, type: 3}
+  - {fileID: 21300000, guid: 780cbfb64ac5579419bcc4233a33f398, type: 3}
+  - {fileID: 21300000, guid: 31def2a15ded0964a8375f0a9a68ba35, type: 3}
+  - {fileID: 21300000, guid: cc64cbbe70978294f84e261e158f7d19, type: 3}
+  - {fileID: 21300000, guid: 03eb0302964f7104f89db88e7b6e5a7b, type: 3}
+  - {fileID: 21300000, guid: 750b475f3a8fc9849bacb033806f5fd9, type: 3}
+  - {fileID: 21300000, guid: 417ce7737aa4db7408f7932588d4753a, type: 3}
+  - {fileID: 21300000, guid: a4c0ae9b7b6e7b6499ede065a789e560, type: 3}
+  - {fileID: 21300000, guid: 238d92b446fc9ec448660d50eb072dc1, type: 3}
+  - {fileID: 21300000, guid: 765c2f4c799991d47af93cb88c46daf1, type: 3}
+  - {fileID: 21300000, guid: 7b173663b04696d46bf8e1ab41536663, type: 3}
+  - {fileID: 21300000, guid: a4e13d62744bee248a8cf62ab2aafbcf, type: 3}
+  - {fileID: 21300000, guid: 2b4930226a388244a9339e0eee2f550e, type: 3}
+  - {fileID: 21300000, guid: 12689292eb0015d47a68b37c1732fa2d, type: 3}
+  - {fileID: 21300000, guid: 83873870ec42585409efcb42d95c76a5, type: 3}
+  - {fileID: 21300000, guid: 13a9c8e9f845d2744a210a877bec07f8, type: 3}
+  ChangeViselitsa: {fileID: 0}
+  text_field: {fileID: 0}
+  image_bacground: {fileID: 0}
+  perehod: {fileID: 0}

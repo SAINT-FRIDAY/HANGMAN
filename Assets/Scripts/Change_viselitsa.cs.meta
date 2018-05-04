@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6dbe0190de614364089f213ed28d62a4
+timeCreated: 1523099779
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Viselitsa0: {fileID: 100002, guid: fd3694d337462af458c47a231cece0bd, type: 3}
+  - Viselitsa1: {fileID: 100002, guid: bba3ba4ae20e42448a96f7244e5d7f31, type: 3}
+  - Viselitsa2: {fileID: 100002, guid: 2b9983e55505a2546bad2164a33034ba, type: 3}
+  - Viselitsa3: {fileID: 100002, guid: b2c30b9858b2e2649bbb96c601ac7da6, type: 3}
+  - Viselitsa4: {fileID: 100002, guid: 13af679e96a890a45813491b15b46956, type: 3}
+  - Viselitsa5: {instanceID: 0}
+  - Viselitsa6: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
